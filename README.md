@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Mirthomasson
-- 👀 I’m interested in learning front-end development!
-- 🌱 I’m currently learning through team treehouse!
-- 💞️ I’m looking to collaborate on learning how to code!
+- 👀 I’m interested in learning frontend development!
+- 🌱 I’m currently learning through Codecademy!
+- 💞️ I’m looking to collaborate on projects involving HTML, CSS, and JS
 - 📫 How to reach me mirthomasson@gmail.com
+- Portfolio- https://mirandathomasson.com/
 
 <!---
 Mirthomasson/Mirthomasson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
