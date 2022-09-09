@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mirthomasson
-- 👀 I’m interested in learning frontend development!
-- 🌱 I’m currently learning through Codecademy!
-- 💞️ I’m looking to collaborate on projects involving HTML, CSS, and JS
+- 👀 I am a Frontend Developer looking for work!
+- 🌱 I’m currently learning through Codecademy
+- 💞️ I’m looking to collaborate on projects involving HTML, CSS, JS, and React
 - 📫 How to reach me mirthomasson@gmail.com
 - :tipping_hand_woman:  Portfolio- https://mirandathomasson.com/
 
