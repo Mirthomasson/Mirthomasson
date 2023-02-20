@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mirthomasson
-- 👀 I am a Frontend Developer looking for work!
-- 🌱 I’m currently learning through Codecademy
+- 👀 I am a Marketing Specialist for Automated Industrial Technologies!
+- 🌱 I’m learned frontend development through Codecademy
 - 💞️ I’m looking to collaborate on projects involving HTML, CSS, JS, and React
 - 📫 How to reach me mirthomasson@gmail.com
 - :tipping_hand_woman:  Portfolio- https://mirandathomasson.com/
